@@ -1,5 +1,7 @@
 ### Olá, eu sou Iosdan Ferreira
 
+<p>Sou Iosdan Ferreira, Desenvolvedor Fullstack com sólida experiência em JavaScript e TypeScript a mais de 2 anos, com foco em qualidade, escalabilidade e performance</p>
+
 [![Portiólio](https://img.shields.io/website?label=IosdanFerreira.dev&style=for-the-badge&url=https://portifolio-iosdanferreira.vercel.app/)](https://portifolio-iosdanferreira.vercel.app)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iosdan-ferreira-772684254/)
 
