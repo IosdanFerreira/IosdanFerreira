@@ -5,12 +5,12 @@
 [![Portiólio](https://img.shields.io/website?label=IosdanFerreira.dev&style=for-the-badge&url=https://portifolio-iosdanferreira.vercel.app/)](https://portifolio-iosdanferreira.vercel.app)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iosdan-ferreira-772684254/)
 
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IosdanFerreira&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IosdanFerreira&theme=radical&show_icons=true)](https://github.com/IosdanFerreira/github-readme-stats)
-</div>
 
-## Tecnologias que utilizo
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IosdanFerreira&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IosdanFerreira&theme=radical&show_icons=true&layout=compact)](https://github.com/IosdanFerreira/github-readme-stats)
+
+
+## Linguagens e Tecnologias
 
 
 <div style="display: inline-block;">
